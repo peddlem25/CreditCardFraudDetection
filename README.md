@@ -21,3 +21,4 @@ import matplotlib.pyplot as plt
 from sklearn.preprocessing import scale
 import random
   
+#Used CreditCard.csv https://www.kaggle.com/amitguptadumka/credit-card-fraud/data (file was to large to load) so just go to this link and download.
